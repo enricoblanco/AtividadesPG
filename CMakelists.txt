@@ -55,6 +55,8 @@ set(EXERCISES
     Desafio2
     JogoDasCores
     DesafioParallax
+    DesafioAdesivos
+    DesafioCena
 )
 
 add_compile_options(-Wno-pragmas)
