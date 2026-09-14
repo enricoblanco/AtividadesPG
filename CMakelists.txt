@@ -57,6 +57,7 @@ set(EXERCISES
     DesafioParallax
     DesafioAdesivos
     DesafioCena
+    JogoTile
 )
 
 add_compile_options(-Wno-pragmas)
